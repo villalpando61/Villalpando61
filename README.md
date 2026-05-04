@@ -22,7 +22,6 @@ latest in analytics technology.
 - 📍 Based in Moreno Valley, CA
 - 🎓 TripleTen Business Analyst Bootcamp Graduate
 - 💼 Background in Logistics & Operations
-- 🥋 Jiu-jitsu practitioner & lifelong learner
 
 ---
 
