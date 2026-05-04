@@ -9,17 +9,24 @@
 
 ## 👤 About Me
 
-I'm a **Business Analyst** with a strong foundation in **logistics and operations**, combining real-world process experience with modern data analytics skills. I graduated from the **TripleTen Business Analyst Bootcamp**, where I sharpened my ability to transform raw data into actionable business insights.
+I'm a **Business Analyst** with a strong foundation in **logistics and operations**, combining
+real-world process experience with modern data analytics skills. I graduated from the
+**TripleTen Business Analyst Bootcamp**, where I sharpened my ability to transform raw data
+into actionable business insights.
 
-I'm passionate about **workflow optimization**, finding inefficiencies, and using data to drive measurable improvements — like cutting overtime costs by **$30,000** through operational analysis.
+I'm passionate about **workflow optimization**, finding inefficiencies, and using data to drive
+measurable improvements — like cutting overtime costs by **$30,000** through targeted operational
+analysis. Off the clock, you'll find me on the mats training **jiu-jitsu** or diving into the
+latest in analytics technology.
 
-- 📍 Based in Moreno Valley, CA  
-- 🎓 TripleTen Business Analyst Bootcamp Graduate  
-- 💼 Background in Logistics & Operations  
+- 📍 Based in Moreno Valley, CA
+- 🎓 TripleTen Business Analyst Bootcamp Graduate
+- 💼 Background in Logistics & Operations
+- 🥋 Jiu-jitsu practitioner & lifelong learner
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
 
 ### Languages & Query Tools
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -42,78 +49,71 @@ I'm passionate about **workflow optimization**, finding inefficiencies, and usin
 
 ---
 
-## 🏆 Key Achievements
+## 🧰 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+---
+
+## 🏆 Achievements
 
 | Achievement | Impact |
 |---|---|
-| 💰 Reduced overtime costs through operational analysis | **$30,000 saved** |
-| 📊 Designed interactive dashboards to monitor KPIs | Improved decision-making speed |
-| 🔁 Streamlined logistics workflows to eliminate bottlenecks | Reduced processing delays |
+| 💰 Reduced overtime costs through targeted operational data analysis | **$30,000 saved** |
+| 📊 Designed and deployed interactive KPI dashboards for leadership | Faster, data-driven decisions |
+| 🔁 Streamlined logistics workflows to eliminate processing bottlenecks | Reduced delays & rework |
 | 🎓 Completed TripleTen Business Analyst Bootcamp | Full-stack BA certification |
+| 🔍 Identified and resolved recurring operational inefficiencies | Sustained process improvements |
 
 ---
 
 ## 💼 Experience
 
-### Business Analyst — Logistics & Operations Focus
-- Analyzed operational data to identify inefficiencies and recommend process improvements  
-- Built dashboards and reports using **Power BI** and **Tableau** to surface KPIs for leadership  
-- Wrote complex **SQL** queries for data extraction, transformation, and ad-hoc reporting  
-- Leveraged **Python** for data cleaning, automation, and exploratory analysis  
-- Documented business requirements and translated them into analytical solutions  
-- Reduced overtime costs by **$30,000** through targeted workflow optimization initiatives  
+### Business Analyst — Logistics & Operations
+- Analyzed large operational datasets to surface inefficiencies and deliver actionable recommendations
+- Built and maintained interactive dashboards in **Power BI** and **Tableau** to track and communicate KPIs
+- Authored complex **SQL** queries for data extraction, transformation, validation, and ad-hoc reporting
+- Applied **Python** (pandas, NumPy) for data cleaning, automation, and exploratory data analysis
+- Wrote clear business requirements documentation and translated stakeholder needs into analytical solutions
+- Achieved **$30,000 in overtime cost savings** through focused workflow analysis and optimization initiatives
+- Collaborated cross-functionally with operations, finance, and management teams to align on data-driven goals
 
 ---
 
 ## 🎓 Education
 
-**TripleTen Business Analyst Bootcamp**  
-> Intensive, project-based program covering the full business analyst toolkit — SQL, Python, data visualization, dashboard design, business requirements documentation, and storytelling with data.
+### TripleTen Business Analyst Bootcamp
+> Intensive, project-based professional program covering the complete business analyst toolkit:
+> **SQL · Python · Power BI · Tableau · Excel · DAX · Data Modeling · Dashboard Design · Business Requirements · Data Storytelling**
 
 ---
 
 ## 📂 Projects
 
-> ⚙️ *Projects coming soon — check back for dashboards, SQL analyses, and Python data explorations!*
+> ⚙️ *Projects coming soon — check back for SQL analyses, Power BI dashboards, and Python data explorations!*
+
+<!--
+Uncomment and fill in as you publish projects:
+- 🔗 [Project Name](https://github.com/YOUR_GITHUB_USERNAME/repo) — Brief description
+-->
 
 ---
 
-## 🌟 Interests
+## ⚡ Fun Facts
 
-- 📈 **Business Analytics** — Finding the story inside complex datasets  
-- ⚙️ **Workflow Optimization** — Cutting waste, improving processes    
-- 📚 **Professional Development** — Continuously learning new tools and techniques  
-- 🔍 **Operational Efficiency** — Bridging the gap between logistics and data  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
-
-## 📬 Contact
-
-<p align="center">
-  <a href="mailto:villalpando61@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center"><i>Open to Business Analyst roles — let's connect and talk data! 🚀</i></p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=2196F3&style=flat" />
-</p>
+- 🥋 I train **jiu-jitsu** — the mats teach you as much about discipline as the data does
+- 🏟️ I love catching **live events** — whether it's a sporting event or a concert, I'm there for the energy
+- 👨‍👩‍👧‍👦 **Friends and family** are everything — quality time is non-negotiable
+- 🏈 I'm a **Head Coach** and proud volunteer for a **flag football team** at my local church
+- 💪 You'll find me at the **gym** consistently
